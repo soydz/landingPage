@@ -1,3 +1,3 @@
 # landingPage
 
-soydz.github.io/landingPage/
+https://soydz.github.io/landingPage/
